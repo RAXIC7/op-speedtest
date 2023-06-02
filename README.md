@@ -1,4 +1,4 @@
-# op-speedtest
+# Op-Speedtest
 Op-Speedtest is a simple resource which will allow your players to mesure every vehicle max speed, 0-100 speed and 100-200.
 
 Join OptoStudios discord and suggest future updates!
